@@ -46,46 +46,33 @@
 <summary>🟡 <strong>Solução implementada</strong></summary>
 <br/>
 
-✅ Desenvolver um software com framework web, hospedado na nuvem da Microsoft (Azure).
-
-<p align="center">
-<! --  <img src="projeto_integrador_1/vitrine.jpg" width="600" alt="Imagem da Vitrine Web">
-</p>
+✅ Desenvolver um software com framework web, hospedado na nuvem da Microsoft (Azure). O entendimento do código exige que se tenha um conhecimento do funcionamento de Terraform. Como referencia, é sugerido que acesse o site https://developer.hashicorp.com/terraform/docs
 
 </details>
 
 ---
 
 <details>
-<summary>🟡 <strong>Estrutura do projeto</strong></summary>
+<summary>🟡 <strong>Estrutura do IaaS</strong></summary>
 <br/>
-Em desenvolvimento.
+
+O ambiente de Azure, foi criado com os seguintes componentes para que a aplicação CondoServicos possam rodar:
+
+- Azure App Service, com Node.JS, na versão 22 LT
+- Azure Database for MySQL flexible server
+
 </details>
 
 ---
 
 <details>
-<summary>🛠️ <strong>Como rodar o projeto localmente</strong></summary>
+<summary>🛠️ <strong>Como baixar o projeto localmente</strong></summary>
 <br/>
 
 ✅ **Clonar o projeto para a máquina local:**  
-<code>git clone https://github.com/tomnachbar/projeto_integrador2.git</code>
+<code>git clone https://github.com/flavio-univesp/projeto_integrador2_IaaS_Azure</code>
 
 </br>
-
-✅ **Acesse o diretório do projeto:**  
-Navegue para o diretório do projeto clonado usando o comando:  
-<code>cd projeto_integrador2</code>
-
-</br>
-
-✅ **Rodando:**  
-
-
-</br>
-
-📄 <b>Baixe o arquivo aqui:</b>  
- Em breve
 
 </details>
 
@@ -94,10 +81,8 @@ Navegue para o diretório do projeto clonado usando o comando:
 ## 🧰 Tecnologias e ferramentas utilizadas
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+
   <img src ="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src ="https://img.shields.io/badge/TERRAFORM-8A2BE2?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </p>
