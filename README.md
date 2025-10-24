@@ -46,8 +46,7 @@
 <summary>🟡 <strong>Solução implementada</strong></summary>
 <br/>
 
-✅ Desenvolver um software com framework web em nuvem que utilize banco de dados, inclua script web (Javascript), nuvem, uso de API, acessibilidade, controle de versão e testes. 
-Permitindo o acesso independente do lugar, pelos moradores quanto as funcionalidades de cadastro e consulta de prestadores; controle de documentação e da base de dados e de seus respectivos históricos e acesso por múltiplos dispositivos.
+✅ Desenvolver um software com framework web, hospedado na nuvem da Microsoft (Azure).
 
 <p align="center">
 <! --  <img src="projeto_integrador_1/vitrine.jpg" width="600" alt="Imagem da Vitrine Web">
