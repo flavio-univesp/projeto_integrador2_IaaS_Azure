@@ -58,8 +58,11 @@
 
 O ambiente de Azure, foi criado com os seguintes componentes para que a aplicação CondoServicos possam rodar:
 
+- Azure App Service Plan
 - Azure App Service, com Node.JS, na versão 22 LT
 - Azure Database for MySQL flexible server
+- Private DNS Zone
+- Managed Identity
 
 </details>
 
@@ -72,6 +75,13 @@ O ambiente de Azure, foi criado com os seguintes componentes para que a aplicaç
 ✅ **Clonar o projeto para a máquina local:**  
 <code>git clone https://github.com/flavio-univesp/projeto_integrador2_IaaS_Azure</code>
 
+✅ **Entendimento do Codigo**  
+
+Os dados de sergurança como usuário de conexão de banco de dados assim como senha e definição do managed identity foram removidos do código e para serem utilizados necessita serem substituido por valores a serem utilizados em seus projeto.
+
+Nome de recursos foram deixados da maneira que está sendo utilizada, porém podem ser substituídos, conforme a sua necessidade.
+
+Este repositório está aberto para que qq pessoa possa baixar e customizar o mesmo.
 </br>
 
 </details>
